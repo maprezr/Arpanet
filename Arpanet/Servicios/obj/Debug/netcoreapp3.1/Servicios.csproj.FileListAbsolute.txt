@@ -1,0 +1,40 @@
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\Servicios.exe
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.dev.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.csprojAssemblyReference.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.xml
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.exe
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.dev.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.csprojAssemblyReference.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.xml
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache

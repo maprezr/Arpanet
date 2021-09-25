@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5UXKzJ32n3+I1eZfHn1GurHkqGIgmaT8bEtC6oMKB4u+alUgHmp7MTAU7deNoT9wJ/x2ibCe+VYYXc29GID5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maper\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maper\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
