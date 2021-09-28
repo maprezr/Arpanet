@@ -5834,19 +5834,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maper\\.nuget\\packages\\": {}
+    "C:\\Users\\patic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\maper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Aplicacion\\obj\\",
+      "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+      "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5857,11 +5857,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj"
+            "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Persistencia\\Persistencia.csproj"
+            "C:\\Ciclo3\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj"
             }
           }
         }

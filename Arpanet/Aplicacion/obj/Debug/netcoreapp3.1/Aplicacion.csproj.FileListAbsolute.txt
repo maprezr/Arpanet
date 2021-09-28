@@ -134,3 +134,5 @@ C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcorea
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.genruntimeconfig.cache
+C:\Ciclo3\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+C:\Ciclo3\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb

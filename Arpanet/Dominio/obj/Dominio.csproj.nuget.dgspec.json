@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj": {}
+    "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj": {
+    "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\maper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\obj\\",
+        "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+        "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

@@ -16,3 +16,12 @@ C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Ciclo3\Arpanet\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Ciclo3\Arpanet\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Ciclo3\Arpanet\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

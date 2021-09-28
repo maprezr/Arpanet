@@ -22,3 +22,15 @@ C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netsta
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+C:\Ciclo3\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+C:\Ciclo3\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+C:\Ciclo3\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+C:\Ciclo3\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Ciclo3\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+C:\Ciclo3\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+C:\Ciclo3\Arpanet\Arpanet\persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+C:\Ciclo3\Arpanet\Arpanet\persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+C:\Ciclo3\Arpanet\Arpanet\persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\Ciclo3\Arpanet\Arpanet\persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Ciclo3\Arpanet\Arpanet\persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Ciclo3\Arpanet\Arpanet\persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete

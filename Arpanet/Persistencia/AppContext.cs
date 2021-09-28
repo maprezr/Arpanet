@@ -1,6 +1,6 @@
 using  Microsoft.EntityFrameworkCore;
 using Dominio.Entidades;
-namespace Persistencia
+namespace Arpanet.Persistencia
 {
     public class AppContext : DbContext
     {

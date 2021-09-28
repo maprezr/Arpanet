@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Ciclo3\\Arpanet\\Arpanet\\persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj": {
+    "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\maper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\obj\\",
+        "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+        "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -57,17 +57,17 @@
         }
       }
     },
-    "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Persistencia\\Persistencia.csproj": {
+    "C:\\Ciclo3\\Arpanet\\Arpanet\\persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\maper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Persistencia\\obj\\",
+        "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+        "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\maper\\OneDrive\\Escritorio\\grupo 7\\Arpanet\\Dominio\\Dominio.csproj"
+              "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj"
               }
             }
           }
