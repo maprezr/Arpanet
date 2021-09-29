@@ -1,0 +1,27 @@
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\prueba 2\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Raul Salinas\Downloads\Arpanet-master\Arpanet-master\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
