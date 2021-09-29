@@ -7263,11 +7263,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\CYBER\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\patic\\.nuget\\packages\\": {}
+>>>>>>> fad9cec23746b38a9b8304fc115c540076ccba6d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
       "projectPath": "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj",
@@ -7276,6 +7281,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CYBER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj",
+      "projectName": "Persistencia",
+      "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+      "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Persistencia\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> fad9cec23746b38a9b8304fc115c540076ccba6d
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7286,8 +7301,13 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
+<<<<<<< HEAD
             "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
               "projectPath": "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj"
+=======
+            "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj"
+>>>>>>> fad9cec23746b38a9b8304fc115c540076ccba6d
             }
           }
         }

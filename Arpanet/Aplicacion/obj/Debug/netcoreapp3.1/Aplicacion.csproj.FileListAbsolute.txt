@@ -134,6 +134,7 @@ C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcorea
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.genruntimeconfig.cache
+<<<<<<< HEAD
 D:\INFO PC\Documents\Arpanet\Arpanet\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.exe
 D:\INFO PC\Documents\Arpanet\Arpanet\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
 D:\INFO PC\Documents\Arpanet\Arpanet\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.runtimeconfig.json
@@ -200,3 +201,7 @@ D:\INFO PC\Documents\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicaci
 D:\INFO PC\Documents\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
 D:\INFO PC\Documents\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
 D:\INFO PC\Documents\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
+=======
+C:\Ciclo3\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+C:\Ciclo3\Arpanet\Arpanet\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
+>>>>>>> fad9cec23746b38a9b8304fc115c540076ccba6d

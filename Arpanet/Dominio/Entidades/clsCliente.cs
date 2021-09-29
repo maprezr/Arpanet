@@ -1,8 +1,8 @@
 namespace Dominio.Entidades
 {
-    public class clsCliente
+    public class clsCliente : clsPersona
     {
-        public int Id {get;set;}
+        public int idCliente {get;set;}
         public string Telefono{get;set;}
         
 

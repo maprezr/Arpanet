@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CYBER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+        "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> fad9cec23746b38a9b8304fc115c540076ccba6d
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

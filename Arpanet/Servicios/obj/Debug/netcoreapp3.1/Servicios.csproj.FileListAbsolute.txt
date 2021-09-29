@@ -38,3 +38,23 @@ C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreap
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.exe
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.json
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.dev.json
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+C:\Ciclo3\Arpanet\Arpanet\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.csprojAssemblyReference.cache
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.xml
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+C:\Ciclo3\Arpanet\Arpanet\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache
