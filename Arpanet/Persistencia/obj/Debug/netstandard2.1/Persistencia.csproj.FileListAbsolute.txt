@@ -22,3 +22,14 @@ C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netsta
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
 C:\Users\maper\OneDrive\Escritorio\grupo 7\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+D:\INFO PC\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
