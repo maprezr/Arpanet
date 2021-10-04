@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Dominio.Entidades;
+using Arpanet.Dominio;
 using System.Linq;
 
-namespace Persistencia 
+namespace Arpanet.Persistencia.AppRepository
 {
 
      
@@ -54,7 +54,7 @@ namespace Persistencia
             p => p.Id == empleado.Id
             );
             if (EmpleadoEncontrado != null){
-                EmpleadoEncontrado.Nombre = Empleado.Nombre;
+                EmpleadoEncontrado.Nombre = empleado.Nombre;
                 _appContext.SaveChanges();
             }
             return EmpleadoEncontrado;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ciclo3\\Arpanet\\Arpanet\\Servicios\\Servicios.csproj": {}
+    "C:\\Arpanet-no\\Arpanet\\Servicios\\Servicios.csproj": {}
   },
   "projects": {
-    "C:\\Ciclo3\\Arpanet\\Arpanet\\Servicios\\Servicios.csproj": {
+    "C:\\Arpanet-no\\Arpanet\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "C:\\Arpanet-no\\Arpanet\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Servicios\\Servicios.csproj",
+        "projectPath": "C:\\Arpanet-no\\Arpanet\\Servicios\\Servicios.csproj",
         "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
-        "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Servicios\\obj\\",
+        "outputPath": "C:\\Arpanet-no\\Arpanet\\Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using Dominio.Entidades;
+using Arpanet.Dominio;
 using System.Linq;
 using Persistencia;
 
-namespace Arpanet.Persistencia.AppRepository 
+namespace Arpanet.Persistencia
 {
 
      

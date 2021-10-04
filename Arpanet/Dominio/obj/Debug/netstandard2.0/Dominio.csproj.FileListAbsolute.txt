@@ -36,3 +36,21 @@ C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCo
 C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Ciclo3\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
 >>>>>>> fad9cec23746b38a9b8304fc115c540076ccba6d
+C:\Arpanet\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Arpanet\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Arpanet\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Arpanet-no\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Arpanet-no\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Arpanet-no\Arpanet\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Arpanet-no\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Arpanet-no\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Arpanet-no\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Arpanet-no\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Arpanet-no\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Arpanet-no\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

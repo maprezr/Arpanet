@@ -1,37 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {}
+    "C:\\Arpanet-no\\Arpanet\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
+    "C:\\Arpanet-no\\Arpanet\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Arpanet-no\\Arpanet\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\CYBER\\.nuget\\packages\\",
-        "outputPath": "D:\\INFO PC\\Documents\\Arpanet\\Arpanet\\Dominio\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\CYBER\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-    "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {}
-  },
-  "projects": {
-    "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
-        "projectName": "Dominio",
-        "projectPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Arpanet-no\\Arpanet\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
-        "outputPath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\obj\\",
+        "outputPath": "C:\\Arpanet-no\\Arpanet\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> fad9cec23746b38a9b8304fc115c540076ccba6d
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -70,7 +53,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

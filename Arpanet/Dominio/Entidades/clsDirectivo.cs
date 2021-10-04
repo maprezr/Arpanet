@@ -1,4 +1,4 @@
-namespace Dominio.Entidades
+namespace Arpanet.Dominio
 {
     public class clsDirectivo
     {

@@ -1,5 +1,6 @@
 using  Microsoft.EntityFrameworkCore;
-using Dominio.Entidades;
+using Arpanet.Dominio;
+
 namespace Arpanet.Persistencia
 {
     public class AppContext : DbContext
@@ -17,7 +18,7 @@ namespace Arpanet.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = Arpanet");
+                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = Arpanet.Data");
             }
         } 
 

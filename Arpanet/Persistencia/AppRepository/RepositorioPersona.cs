@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Linq;
-using Dominio.Entidades;
+using Arpanet.Dominio;
 using Persistencia;
 
-namespace Arpanet.Persistencia.AppRepository
+namespace Arpanet.Persistencia
 {
     public class RepositorioPersona : IRepositorioPersona
     {

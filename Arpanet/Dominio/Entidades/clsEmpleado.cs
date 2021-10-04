@@ -1,9 +1,9 @@
 using System;
-namespace Dominio.Entidades
+namespace Arpanet.Dominio
 {
-    public class clsEmpleado
+    public class clsEmpleado : clsPersona
     {
-        public int id{get;set;}
+        public int IdPersona{get;set;}
         public Double sueldoBruto{get;set;}
     }
 }

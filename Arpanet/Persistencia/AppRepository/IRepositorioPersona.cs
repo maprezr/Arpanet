@@ -1,6 +1,7 @@
 using System.Collections.Generic;
-using Dominio.Entidades;
-namespace Persistencia
+using Arpanet.Dominio;
+
+namespace Arpanet.Persistencia
 {
     public interface IRepositorioPersona
     {

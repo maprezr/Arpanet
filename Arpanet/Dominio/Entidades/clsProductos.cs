@@ -1,5 +1,6 @@
 using System.Security.Cryptography.X509Certificates;
-namespace Dominio.Entidades
+
+namespace Arpanet.Dominio
 {
     public class clsProductos
     {

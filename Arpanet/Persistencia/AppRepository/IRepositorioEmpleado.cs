@@ -1,8 +1,8 @@
   
 using System.Collections.Generic;
-using Dominio.Entidades;
+using Arpanet.Dominio;
 
-namespace Persistencia
+namespace Arpanet.Persistencia
 {
     public interface IRepositorioEmpleado
     {

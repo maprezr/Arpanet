@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Dominio.Entidades;
+using Arpanet.Dominio;
 
 namespace Arpanet.Persistencia
 {

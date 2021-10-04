@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxjPHI7X84RW1kQMkmGbzpaod3+pGDPJDMhu8BuhUQFDuxo1UP4VZZHogVDc1wvvSfqCA6kDMTuKGJFtVGv99Q==",
+  "dgSpecHash": "qsV+8HkCUoxghetd2vvIz98Gop73z5fn6YSl9Ph8tMCgozpUXIvpJoyAIpuKYLJxJfZ6prTRs8i7SslOQcoSpA==",
   "success": true,
-  "projectFilePath": "C:\\Ciclo3\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Arpanet-no\\Arpanet\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\patic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
