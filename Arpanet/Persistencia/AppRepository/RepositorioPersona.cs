@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Arpanet.Dominio;
-using Persistencia;
+using Arpanet.Persistencia;
 
 namespace Arpanet.Persistencia
 {
@@ -14,11 +14,7 @@ namespace Arpanet.Persistencia
             _appContext = appContext;
         }
 
-        public clsCliente addCliente(clsCliente cliente)
-        {
-            throw new System.NotImplementedException();
-        }
-
+    
         public clsPersona addPersona(clsPersona persona)
         {
             var new_persona = _appContext.personas.Add(persona);

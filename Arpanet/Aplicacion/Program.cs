@@ -15,11 +15,11 @@ namespace Arpanet.Aplicacion
         {
             Console.WriteLine("Hello World! EF ARPANET");
 
-            //AddPersona();
+            AddPersona();
             //updatePersona();
             //deletePersona(7);
             //getPersona(2);
-            GetAllPersona();
+            //GetAllPersona();
             AddCliente();
         }
 
@@ -67,7 +67,7 @@ namespace Arpanet.Aplicacion
                     Nombre = "Alex",
                     Telefono = "3128547806"
                 };
-            _repoCliente.addCliente (cliente);
+            _repoCliente.AddCliente (cliente);
         }
     }
 }

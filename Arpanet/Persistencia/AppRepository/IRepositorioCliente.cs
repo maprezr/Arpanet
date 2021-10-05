@@ -7,7 +7,7 @@ namespace Arpanet.Persistencia
     {
         IEnumerable<clsCliente> getAllCliente();
 
-        clsCliente addCliente(clsCliente cliente);
+        clsCliente AddCliente(clsCliente cliente);
 
         clsCliente updateCliente(clsCliente cliente);
 
