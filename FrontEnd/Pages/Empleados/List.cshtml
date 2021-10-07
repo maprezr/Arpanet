@@ -1,0 +1,44 @@
+﻿@page
+@model MyApp.Namespace.ListModel
+@{
+}
+<h1>Empleados</h1>
+<br/>
+<a class="btn btn-success" asp-page="./Crear">
+    <i class="fas fa-plus"></i> Crear
+</a>
+</br>        
+<table class="table">
+    <tr>
+        <!--<th>Id</th>-->
+        <th>Nombre</th>
+        <th>Sueldo Bruto</th>
+        <th>Detalle</th>
+        <th>Editar</th>
+        <th>Eliminar</th>
+    </tr>
+    @foreach (var empleado in Model.Empleados)
+    {
+        <tr>
+            <!--<td>@empleado.Id</td>-->
+            <td>@empleado.Nombre</td>
+            <td>@empleado.sueldoBruto</td>
+            <td>
+                <a class="btn btn-info" asp-page="./Detalle" asp-route-id="@empleado.Id">
+                <i class="fas fa-info-circle"></i>
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-page="./Editar" asp-route-id="@empleado.Id">
+                <i class="fas fa-edit"></i>
+                </a>
+            </td>
+         
+            <td>
+                <a class="btn btn-danger" asp-page="./Eliminar" asp-route-id="@empleado.Id">
+                <i class="fas fa-trash-alt"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,32 @@
+﻿@page
+@model MyApp.Namespace.EliminarModel
+@{
+}
+<h1>Eliminar</h1>
+</br>
+
+<div>
+    <div class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.empleado.Nombre)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.empleado.Nombre)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.empleado.sueldoBruto)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.empleado.sueldoBruto)
+        </dd>
+    </div>
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="empleado.Id"/>
+    <input type="submit" value="Eliminar" class="btn btn-danger"/>
+</form>
+</br>
+<div>
+    <a asp-page="./List">Volver a la lista</a>
+</div>

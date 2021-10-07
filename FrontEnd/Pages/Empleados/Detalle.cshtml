@@ -1,0 +1,31 @@
+﻿@page
+@model MyApp.Namespace.DetalleModel
+@{
+}
+<h2>Detalle de la persona</h2>
+<div>
+    <hr/>
+    <d1 class= "row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => Model.empleado.Id)
+        </dt>
+          <dd class="col-sm-10">
+            @Html.DisplayFor(model => Model.empleado.Id)
+          </dd>
+         <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => Model.empleado.Nombre)
+        </dt>
+          <dd class="col-sm-10">
+            @Html.DisplayFor(model => Model.empleado.Nombre)
+        </dd>
+         <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => Model.empleado.sueldoBruto)
+        </dt>
+          <dd class="col-sm-10">
+           @Html.DisplayFor(model => Model.empleado.sueldoBruto)
+        </dd>
+    </d1>
+</div>
+<div>
+    <a asp-page="./List">Volver a la lista</a>
+</div>
