@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Raul Salinas\\.nuget\\packages\\": {}
+    "C:\\Users\\patic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Arpanet-no\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\Raul Salinas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Dominio\\obj\\",
+      "projectPath": "C:\\Arpanet-no\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+      "outputPath": "C:\\Arpanet-no\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Raul Salinas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -202,6 +202,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -213,6 +214,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -231,7 +233,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

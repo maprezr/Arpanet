@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vVRryVQveaFHbdhurus1tkQDBygVwiQgfWOFn4BRtBq8LNfK9gLcO/dF5k9l7dR/z28buWf2fTmd9dfhev/vVA==",
+  "dgSpecHash": "bL95olBDI01lVl8Q4Y7qBQqYUbiQxHk+csRKZdIfi/XzjGyRqQBDt5YfNjDDSGSYSTXrbORLo/1WUB/QusSifg==",
   "success": true,
-  "projectFilePath": "C:\\Arpanet-no\\Arpanet\\Servicios\\Servicios.csproj",
+  "projectFilePath": "C:\\Arpanet-no\\Servicios\\Servicios.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

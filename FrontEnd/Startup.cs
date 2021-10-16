@@ -33,6 +33,7 @@ namespace FrontEnd
             services.AddSingleton<IRepositorioCliente,RepositorioCliente>();
             services.AddSingleton<IRepositorioEmpleado,RepositorioEmpleado>();
             services.AddSingleton<Arpanet.Persistencia.AppContext>();
+            services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,6 +54,8 @@ namespace FrontEnd
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

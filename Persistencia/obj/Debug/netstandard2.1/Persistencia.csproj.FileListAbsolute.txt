@@ -84,3 +84,15 @@ C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstanda
 C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
 C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
 C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+C:\Arpanet-no\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+C:\Arpanet-no\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+C:\Arpanet-no\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\Arpanet-no\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Arpanet-no\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Arpanet-no\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.AssemblyReference.cache
+C:\Arpanet-no\Persistencia\obj\Debug\netstandard2.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arpanet-no\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+C:\Arpanet-no\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+C:\Arpanet-no\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Arpanet-no\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+C:\Arpanet-no\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb

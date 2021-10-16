@@ -63,3 +63,13 @@ C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0
 C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Users\Raul Salinas\Documents\Arpanet\Arpanet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Arpanet-no\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Arpanet-no\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Arpanet-no\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Arpanet-no\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.AssemblyReference.cache
+C:\Arpanet-no\Dominio\obj\Debug\netstandard2.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arpanet-no\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Arpanet-no\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Arpanet-no\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Arpanet-no\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Arpanet-no\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

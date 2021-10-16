@@ -15,18 +15,18 @@ namespace Arpanet.Aplicacion
         {
             Console.WriteLine("Hello World! EF ARPANET");
 
-            //AddPersona();
+            AddPersona();
             //updatePersona();
             //deletePersona(7);
             //getPersona(2);
             //GetAllPersona();
-            //AddCliente();
+            AddCliente();
             //AddDirectivo();
-            //addEmpleado();
+            addEmpleado();
             //GetAllEmpleado();
             //getEmpleado(4);
             //deleteEmpleado(3);
-            updateEmpleado();
+            //updateEmpleado();
         }
 
         public static void GetAllPersona()

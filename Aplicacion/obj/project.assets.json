@@ -5836,19 +5836,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Raul Salinas\\.nuget\\packages\\": {}
+    "C:\\Users\\patic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Arpanet-no\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\Raul Salinas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Aplicacion\\obj\\",
+      "projectPath": "C:\\Arpanet-no\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+      "outputPath": "C:\\Arpanet-no\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Raul Salinas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5859,11 +5859,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj"
+            "C:\\Arpanet-no\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Arpanet-no\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj"
+            "C:\\Arpanet-no\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Arpanet-no\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5913,7 +5913,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

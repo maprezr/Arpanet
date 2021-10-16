@@ -7263,19 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Raul Salinas\\.nuget\\packages\\": {}
+    "C:\\Users\\patic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Arpanet-no\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Persistencia\\Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Raul Salinas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Persistencia\\obj\\",
+      "projectPath": "C:\\Arpanet-no\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\patic\\.nuget\\packages\\",
+      "outputPath": "C:\\Arpanet-no\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Raul Salinas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\patic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7285,9 +7285,10 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Raul Salinas\\Documents\\Arpanet\\Arpanet\\Dominio\\Dominio.csproj"
+            "C:\\Arpanet-no\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Arpanet-no\\Dominio\\Dominio.csproj"
             }
           }
         }
@@ -7300,6 +7301,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -7337,7 +7339,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
